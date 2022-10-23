@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5c8106da.chunk.css",
-    "main.js": "/static/js/main.c3ae7fa2.chunk.js",
-    "main.js.map": "/static/js/main.c3ae7fa2.chunk.js.map",
+    "main.js": "/static/js/main.d3b4029c.chunk.js",
+    "main.js.map": "/static/js/main.d3b4029c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5648adf4.js",
     "runtime-main.js.map": "/static/js/runtime-main.5648adf4.js.map",
-    "static/js/2.a4c3c4f1.chunk.js": "/static/js/2.a4c3c4f1.chunk.js",
-    "static/js/2.a4c3c4f1.chunk.js.map": "/static/js/2.a4c3c4f1.chunk.js.map",
+    "static/js/2.1dc74f1b.chunk.js": "/static/js/2.1dc74f1b.chunk.js",
+    "static/js/2.1dc74f1b.chunk.js.map": "/static/js/2.1dc74f1b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3f488ac85258f40ea39628ca52f1cda2.js": "/precache-manifest.3f488ac85258f40ea39628ca52f1cda2.js",
+    "precache-manifest.0c6ebc4843c8949bf596371e97af7eeb.js": "/precache-manifest.0c6ebc4843c8949bf596371e97af7eeb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5c8106da.chunk.css.map": "/static/css/main.5c8106da.chunk.css.map",
-    "static/js/2.a4c3c4f1.chunk.js.LICENSE.txt": "/static/js/2.a4c3c4f1.chunk.js.LICENSE.txt",
+    "static/js/2.1dc74f1b.chunk.js.LICENSE.txt": "/static/js/2.1dc74f1b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Harsh_Vador.jpg": "/static/media/Harsh_Vador.847e9fff.jpg",
     "static/media/Harsh_Vador_192x192.jpg": "/static/media/Harsh_Vador_192x192.3af3cd97.jpg",
@@ -63,8 +63,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5648adf4.js",
-    "static/js/2.a4c3c4f1.chunk.js",
+    "static/js/2.1dc74f1b.chunk.js",
     "static/css/main.5c8106da.chunk.css",
-    "static/js/main.c3ae7fa2.chunk.js"
+    "static/js/main.d3b4029c.chunk.js"
   ]
 }
